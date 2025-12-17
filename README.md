@@ -8,7 +8,7 @@ AI-driven solutions, and data-focused systems.
 </h3>
 
 <p align="center">
-  <a href="https://youssef-portfolio-pearl.vercel.app/" target="_blank">
+  <a href="" target="_blank">
     💻 View My Portfolio
   </a>
 </p>
@@ -119,6 +119,4 @@ AI-driven solutions, and data-focused systems.
 
 ---
 
-<p align="center">
-  ⭐ Clean • Professional • Recruiter-Ready
 </p>
