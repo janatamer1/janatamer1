@@ -64,6 +64,34 @@ AI-driven solutions, and data-focused systems.
 
 ---
 
+### 📊 GitHub Overview
+<div align="center">
+
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janatamer1&theme=radical" alt="GitHub Summary" />
+  <br/>
+
+  <!-- Repo & Language Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janatamer1&theme=radical" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janatamer1&theme=radical" alt="Most Commit Language" />
+  <br/>
+
+  <!-- Contribution & Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janatamer1&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janatamer1&theme=radical&utcOffset=2" alt="Productive Time" />
+</div>
+
+---
+---
+
+### 🧠 Quick Stats Badges
+<div align="center">
+  <img src="https://img.shields.io/github/followers/janatamer1?label=Followers&style=for-the-badge&logo=github&color=red" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/janatamer1?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/janatamer1/Jewelry-final-website?style=for-the-badge&color=green" alt="Last Commit" />
+</div>
+
+---
 ## 🚀 Featured Projects
 - 🛒 **Jewelry E-commerce Website**  
   Node.js · MongoDB · EJS  
