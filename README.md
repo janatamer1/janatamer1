@@ -36,8 +36,6 @@ AI-driven solutions, and data-focused systems.
 ### 🖥️ Frameworks & Libraries
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
 ### 🤖 AI & Data
@@ -87,7 +85,7 @@ AI-driven solutions, and data-focused systems.
   <a href="https://www.linkedin.com/in/jana-tamer-b6565832a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:.com">
+  <a href="mailto:jana2305507.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
