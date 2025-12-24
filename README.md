@@ -7,11 +7,6 @@ majoring in Artificial Intelligence. Passionate about building full-stack applic
 AI-driven solutions, and data-focused systems.
 </h3>
 
-<p align="center">
-  <a href="" target="_blank">
-    💻 View My Portfolio
-  </a>
-</p>
 
 ---
 
