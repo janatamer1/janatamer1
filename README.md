@@ -77,7 +77,6 @@ AI-driven solutions, and data-focused systems.
 </div>
 
 ---
----
 
 ### 🧠 Quick Stats Badges
 <div align="center">
@@ -85,20 +84,6 @@ AI-driven solutions, and data-focused systems.
   <img src="https://img.shields.io/github/stars/janatamer1?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="Stars" />
   <img src="https://img.shields.io/github/last-commit/janatamer1/Jewelry-final-website?style=for-the-badge&color=green" alt="Last Commit" />
 </div>
-
----
-## 🚀 Featured Projects
-- 🛒 **Jewelry E-commerce Website**  
-  Node.js · MongoDB · EJS  
-  https://github.com/janatamer1/Jewelry-final-website
-
-- 🤖 **AI Chatbot**  
-  NLP-based interactive chatbot  
-  https://github.com/janatamer1/CHATBOT
-
-- 🌐 **Portfolio Website**  
-  React · Responsive Design  
-  https://github.com/janatamer1/Website-Protflio
 
 ---
 
