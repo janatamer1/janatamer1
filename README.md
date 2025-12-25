@@ -94,7 +94,7 @@ AI-driven solutions, and data-focused systems.
 
 - 🤖 **AI Chatbot**  
   NLP-based interactive chatbot  
-  https://github.com/janatamer1/Uni-Link
+  https://github.com/janatamer1/CHATBOT
 
 - 🌐 **Portfolio Website**  
   React · Responsive Design  
@@ -114,12 +114,12 @@ AI-driven solutions, and data-focused systems.
 
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed20384&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janatamer1&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp;
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janatamer1/janatamer1/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janatamer1/janatamer1/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamed20384/janatamer1/output/pacman-contribution-graph.svg">
   </picture>
 
 </p>
