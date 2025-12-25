@@ -113,13 +113,4 @@ AI-driven solutions, and data-focused systems.
 </div>
 
 ---
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janatamer1&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp;
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janatamer1/janatamer1/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janatamer1/janatamer1/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/janatamer1/janatamer1/output/pacman-contribution-graph.svg">
-  </picture>
-
 </p>
