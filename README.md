@@ -82,7 +82,6 @@ AI-driven solutions, and data-focused systems.
 <div align="center">
   <img src="https://img.shields.io/github/followers/janatamer1?label=Followers&style=for-the-badge&logo=github&color=red" alt="Followers" />
   <img src="https://img.shields.io/github/stars/janatamer1?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/janatamer1/Jewelry-final-website?style=for-the-badge&color=green" alt="Last Commit" />
 </div>
 
 ---
